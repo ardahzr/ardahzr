@@ -10,7 +10,6 @@ Computer Engineering student building AI tools, desktop apps, web platforms, and
  · 
 <a href="https://github.com/ardahzr">Profile</a>
 
-<br><br>
 
 <img alt="Location" src="https://img.shields.io/badge/Istanbul-Turkey-111827?style=flat-square">
 <img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20Computer%20Vision-2563EB?style=flat-square">
