@@ -99,16 +99,15 @@ Right now I am focused on:
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ardahzr/ardahzr/master/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile details">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardahzr&amp;theme=github_dark" alt="Profile details">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ardahzr/ardahzr/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per language">
-  <img src="https://raw.githubusercontent.com/ardahzr/ardahzr/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most commit language">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardahzr&amp;theme=github_dark" alt="Repos per language">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardahzr&amp;theme=github_dark" alt="Most commit language">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ardahzr/ardahzr/master/profile-summary-card-output/2077/3-stats.svg" alt="GitHub stats">
-  <img src="https://raw.githubusercontent.com/ardahzr/ardahzr/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive time">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardahzr&amp;theme=github_dark" alt="GitHub stats">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardahzr&amp;theme=github_dark&amp;utcOffset=3" alt="Productive time">
 </p>
-
