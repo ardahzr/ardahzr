@@ -2,7 +2,7 @@
 
 # Arda Hazar
 
-Computer Engineering student building AI tools, desktop apps, web platforms, and computer vision projects.
+Computer Engineering student building AI tools, embedded systems, desktop apps, web platforms, and computer vision projects.
 
 <a href="https://github.com/ardahzr?tab=repositories">Public Projects</a>
  · 
@@ -12,7 +12,7 @@ Computer Engineering student building AI tools, desktop apps, web platforms, and
 
 
 <img alt="Location" src="https://img.shields.io/badge/Istanbul-Turkey-111827?style=flat-square">
-<img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20Computer%20Vision-2563EB?style=flat-square">
+<img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20%7C%20Embedded%20%7C%20Full--Stack%20%7C%20CV-2563EB?style=flat-square">
 <img alt="Builds" src="https://img.shields.io/badge/Builds-Useful%20Software-16A34A?style=flat-square">
 
 </div>
@@ -21,11 +21,12 @@ Computer Engineering student building AI tools, desktop apps, web platforms, and
 
 ## Snapshot
 
-I like building software that turns technical ideas into usable products. My projects usually sit between local AI, education workflows, desktop tools, and computer vision.
+I like building software that turns technical ideas into usable products. My projects usually sit between local AI, embedded firmware, education workflows, desktop tools, and computer vision.
 
 Right now I am focused on:
 
 - Local AI assistants and LLM-powered apps
+- STM32 firmware with real hardware modules and sensor flows
 - Full-stack platforms for education and operations
 - Computer vision tools with YOLO and deep learning
 - Native-feeling desktop apps for Linux and Windows
@@ -52,9 +53,9 @@ Right now I am focused on:
       <p><sub>Vue · Python · Analytics</sub></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ardahzr/linux-opus-audio-platform-with-youtube-spotify">LMP Music Player</a></h3>
-      <p>Linux desktop music player with local library playback and YouTube download support.</p>
-      <p><sub>.NET · GTK · C#</sub></p>
+      <h3><a href="https://github.com/ardahzr/stm32-multimodule-control-system">STM32 Multimodule Control System</a></h3>
+      <p>STM32F072 firmware combining OLED UI, RFID access, keypad input, MQ-3 sensing, Bluetooth UART, RGB feedback, and PWM buzzer modes.</p>
+      <p><sub>C · STM32CubeIDE · HAL · Embedded Systems</sub></p>
     </td>
   </tr>
   <tr>
@@ -87,6 +88,8 @@ Right now I am focused on:
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -105,22 +108,11 @@ Right now I am focused on:
 | AI and LLMs | [ACU AI Chatbot](https://github.com/ardahzr/acibadem-ai-chat), [BingChat on WhatsApp](https://github.com/ardahzr/BingChat-on-Whatsapp) |
 | Computer Vision | [Scoliosis Classification](https://github.com/ardahzr/Scoliosis-Classification), [YOLOv8 Face Crop](https://github.com/ardahzr/yolov8-face-crop), [CS2 AI](https://github.com/ardahzr/CS2-AI) |
 | Education Platforms | [Program Outcome Manager](https://github.com/ardahzr/Learning-and-Program-Outcome-Management), [ICP Bootcamp](https://github.com/ardahzr/ICP-Bootcamp) |
+| Embedded Systems | [STM32 Multimodule Control System](https://github.com/ardahzr/stm32-multimodule-control-system) |
 | Desktop and Tools | [Licord](https://github.com/ardahzr/Licord), [LMP Music Player](https://github.com/ardahzr/linux-opus-audio-platform-with-youtube-spotify), [MiniOS](https://github.com/ardahzr/MiniOS) |
 | Forecasting | [EPIAS Load Forecasting](https://github.com/ardahzr/epias-load-forecasting), [Time Series Forecasting](https://github.com/ardahzr/Time-Series-Forecasting) |
 | Data Extraction | [Google Places Review Scraper](https://github.com/ardahzr/google-places-review-scraper), [PDF to XLSX Converter](https://github.com/ardahzr/PDF-to-XLSX), [COCO to YOLO Converter](https://github.com/ardahzr/COCO-to-YOLO) |
 
-## GitHub Snapshot
+## Current Direction
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardahzr&amp;theme=github_dark" alt="Profile details">
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardahzr&amp;theme=github_dark" alt="Repos per language">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardahzr&amp;theme=github_dark" alt="Most commit language">
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardahzr&amp;theme=github_dark" alt="GitHub stats">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardahzr&amp;theme=github_dark&amp;utcOffset=3" alt="Productive time">
-</p>
+I am currently sharpening a portfolio that shows both product thinking and low-level engineering: practical AI apps, reliable data tooling, forecasting experiments, computer vision workflows, and embedded projects that interact with real hardware.
