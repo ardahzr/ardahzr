@@ -60,9 +60,9 @@ Right now I am focused on:
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ardahzr/MiniOS">MiniOS</a></h3>
-      <p>Educational desktop operating system simulation with windows, taskbar, apps, and OS-course concepts.</p>
-      <p><sub>Python · PySimpleGUI · OS Simulation</sub></p>
+      <h3><a href="https://github.com/ardahzr/kelepir-gb-market-tracker">Kelepir GB Market Tracker</a></h3>
+      <p>Plain PHP and MySQL market tracking platform with admin tools, source scrapers, cron updates, and shared-hosting deployment notes.</p>
+      <p><sub>PHP · MySQL · Scrapers · cPanel</sub></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/ardahzr/Scoliosis-Classification">Scoliosis Classification</a></h3>
@@ -90,6 +90,7 @@ Right now I am focused on:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -106,6 +107,7 @@ Right now I am focused on:
 | Area | Repositories |
 | --- | --- |
 | AI and LLMs | [ACU AI Chatbot](https://github.com/ardahzr/acibadem-ai-chat), [BingChat on WhatsApp](https://github.com/ardahzr/BingChat-on-Whatsapp) |
+| Web Platforms | [Kelepir GB Market Tracker](https://github.com/ardahzr/kelepir-gb-market-tracker), [Program Outcome Manager](https://github.com/ardahzr/Learning-and-Program-Outcome-Management) |
 | Computer Vision | [Scoliosis Classification](https://github.com/ardahzr/Scoliosis-Classification), [YOLOv8 Face Crop](https://github.com/ardahzr/yolov8-face-crop), [CS2 AI](https://github.com/ardahzr/CS2-AI) |
 | Education Platforms | [Program Outcome Manager](https://github.com/ardahzr/Learning-and-Program-Outcome-Management), [ICP Bootcamp](https://github.com/ardahzr/ICP-Bootcamp) |
 | Embedded Systems | [STM32 Multimodule Control System](https://github.com/ardahzr/stm32-multimodule-control-system) |
