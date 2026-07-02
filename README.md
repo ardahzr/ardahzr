@@ -69,6 +69,18 @@ Right now I am focused on:
       <p><sub>Python · YOLOv8 · Computer Vision</sub></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ardahzr/google-places-review-scraper">Google Places Review Scraper</a></h3>
+      <p>Python CLI for exporting Google Maps place reviews to JSON and CSV with Apify or local Chrome scraping.</p>
+      <p><sub>Python · Apify · Playwright</sub></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/ardahzr/yolov8-face-crop">YOLOv8 Face Crop</a></h3>
+      <p>Face detection utility that expands bounding boxes and saves clean cropped face images.</p>
+      <p><sub>Python · YOLOv8 · Data Tools</sub></p>
+    </td>
+  </tr>
 </table>
 
 ## Toolbox
@@ -94,6 +106,7 @@ Right now I am focused on:
 | Computer Vision | [Scoliosis Classification](https://github.com/ardahzr/Scoliosis-Classification), [YOLOv8 Face Crop](https://github.com/ardahzr/yolov8-face-crop), [CS2 AI](https://github.com/ardahzr/CS2-AI) |
 | Education Platforms | [Program Outcome Manager](https://github.com/ardahzr/Learning-and-Program-Outcome-Management), [ICP Bootcamp](https://github.com/ardahzr/ICP-Bootcamp) |
 | Desktop and Tools | [Licord](https://github.com/ardahzr/Licord), [LMP Music Player](https://github.com/ardahzr/linux-opus-audio-platform-with-youtube-spotify), [MiniOS](https://github.com/ardahzr/MiniOS) |
+| Data Extraction | [Google Places Review Scraper](https://github.com/ardahzr/google-places-review-scraper), [PDF to XLSX Converter](https://github.com/ardahzr/PDF-to-XLSX), [COCO to YOLO Converter](https://github.com/ardahzr/COCO-to-YOLO) |
 
 ## GitHub Snapshot
 
